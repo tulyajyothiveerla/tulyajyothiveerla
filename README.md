@@ -1,156 +1,107 @@
-<h1 align="center">Hi 👋, I'm Tulya Jyothi Veerla</h1>
-<h3 align="center">Computer Science Undergraduate | Full Stack Developer | Building AI-Powered Solutions</h3>
+<h1 align="center">Tulya Jyothi Veerla</h1>
 
 <p align="center">
-Passionate about building impactful software solutions through Full Stack Development, Artificial Intelligence, and modern web technologies.
-</p>
-
-<p align="center">
-<a href="https://github.com/tulyajyothiveerla">
-<img src="https://komarev.com/ghpvc/?username=tulyajyothiveerla&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
+Computer Science Undergraduate | Full Stack Developer | AI-Powered Software Development
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 💻 Passionate about Full Stack Development and Software Engineering
-- 🤖 Interested in Artificial Intelligence and building practical, real-world applications
-- 🚀 Hands-on experience through internships, hackathons, and academic projects
-- 🌱 Currently strengthening my skills in Full Stack Development, REST APIs, and AI-powered applications
-- 🎯 Goal: To build scalable software solutions that create meaningful impact
+Computer Science undergraduate with hands-on experience in full-stack software development through internships, hackathons, and academic projects.
+
+I enjoy building scalable web applications, AI-powered solutions, and solving real-world problems using modern technologies. My interests include software engineering, backend development, REST APIs, and creating applications that deliver meaningful user experiences.
+
+Currently seeking Software Development and Full Stack Development opportunities where I can contribute, learn, and grow as an engineer.
 
 ---
 
-## 🚀 Tech Stack
+## Technical Skills
 
 ### Languages
+Python • JavaScript • HTML • CSS • SQL
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
-</p>
+### Frameworks & Libraries
+React • Next.js • Flask • Node.js
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql" />
-</p>
+### Databases
+PostgreSQL • Oracle SQL
 
 ### Tools
+Git • GitHub • VS Code • Postman
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+### Concepts
+REST APIs • Object-Oriented Programming • Full Stack Development • Database Management • Software Development Life Cycle
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🩺 Vaidyah
+### Vaidyah
 AI-powered healthcare platform for appointment booking, doctor search, and AI-based symptom analysis.
 
-### 🚦 CivicEye
-AI-powered smart public complaint and road hazard reporting system with complaint tracking and an admin dashboard.
+### CivicEye
+AI-powered public complaint and road hazard reporting platform with complaint tracking and an administrative dashboard.
 
-### 🤖 NayePankh AI Assistant
-AI-powered assistant integrated with Gemini API, user authentication, and PostgreSQL.
+### NayePankh AI Assistant
+AI assistant built using Gemini API with authentication and PostgreSQL integration.
 
-### 🛡️ Trinetra
-Cybersecurity awareness mobile application focused on threat detection, user protection, and secure digital practices.
+### Trinetra
+Cybersecurity awareness application focused on user protection, threat awareness, and secure digital practices.
 
-### 🌍 ServLink
+### ServLink
 Platform connecting volunteers with NGOs to simplify community service participation.
 
-### 💰 FINZO
-Personal Finance Tracker with dashboards and expense visualization.
+### FINZO
+Personal finance tracker with expense visualization and analytics dashboard.
 
 ---
 
-## 💼 Internship Experience
+## Internship Experience
 
-**Frontend Development Intern – Cyberhelps**
+**Frontend Development Intern**  
+Cyberhelps
 
-- Developed **Trinetra**, a cybersecurity awareness mobile application.
+Developed *Trinetra*, a cybersecurity awareness application focusing on user protection and secure digital practices.
 
-**Web Development Intern – Elevance Skills**
+**Web Development Intern**  
+Elevance Skills
 
-- Built **MyTube**, a video-sharing web application using React and Next.js.
+Developed *MyTube*, a video-sharing web application using React and Next.js with authentication, payments, comments, and interactive features.
 
-**Fundraising Intern – Basti Ki Pathshala Foundation**
+**Fundraising Intern**  
+Basti Ki Pathshala Foundation
 
-- Contributed to fundraising campaigns while strengthening communication and stakeholder management skills.
-
----
-
-## 🏆 Certifications
-
-- IBM Skills Network – Prompt Engineering for Everyone
-- ServiceNow – Welcome to ServiceNow Micro-Certification
-- SAP Code Unnati – Advanced Course
-- SAP Code Unnati Innovation Marathon
-- Elevance Skills – Full Stack Web Development
-- UNICEF Passport to Earning – Digital Productivity with AI
+Contributed to fundraising campaigns while strengthening communication and stakeholder management skills.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tulyajothiveerla&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulyajothiveerla&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tulyajyothiveerla&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulyajothiveerla&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## Current Focus
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=tulyajothiveerla&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/tulya-veerla">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:tulyajothiveerla007@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/tulyajothiveerla">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+- Full Stack Software Development
+- AI-Powered Applications
+- Backend Development
+- REST API Development
+- Open Source Learning
 
 ---
 
-## 🎯 Current Focus
+## Contact
 
-- Building scalable Full Stack applications
-- Exploring AI-powered software solutions
-- Improving backend development skills
-- Contributing to impactful real-world projects
+**LinkedIn**
+https://www.linkedin.com/in/tulya-veerla
 
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
+**Email**
+tulyajothiveerla007@gmail.com
