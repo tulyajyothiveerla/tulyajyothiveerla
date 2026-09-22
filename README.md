@@ -64,6 +64,7 @@ Personal finance tracker with expense visualization and analytics dashboard.
 ## Internship Experience
 
 **Tech Mahindra – Intern**
+
 Worked on an Australia-region project, contributing to web development, testing, and project-related technical activities.
 
 **Frontend Development Intern**  
