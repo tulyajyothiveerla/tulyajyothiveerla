@@ -46,7 +46,7 @@ AI-powered public complaint and road hazard reporting platform with complaint tr
 ### NayePankh AI Assistant
 AI assistant built using Gemini API with authentication and PostgreSQL integration.
 
-###PrepZen
+### PrepZen
 A platform for placement preparation with aptitude, coding, and interview practice.
 
 
