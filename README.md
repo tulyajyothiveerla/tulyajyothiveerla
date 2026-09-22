@@ -40,11 +40,15 @@ REST APIs • Object-Oriented Programming • Full Stack Development • Databas
 ### Vaidyah
 AI-powered healthcare platform for appointment booking, doctor search, and AI-based symptom analysis.
 
-### CivicEye
+### CivicNetra
 AI-powered public complaint and road hazard reporting platform with complaint tracking and an administrative dashboard.
 
 ### NayePankh AI Assistant
 AI assistant built using Gemini API with authentication and PostgreSQL integration.
+
+###PrepZen
+A platform for placement preparation with aptitude, coding, and interview practice.
+
 
 ### Trinetra
 Cybersecurity awareness application focused on user protection, threat awareness, and secure digital practices.
@@ -58,6 +62,9 @@ Personal finance tracker with expense visualization and analytics dashboard.
 ---
 
 ## Internship Experience
+
+**Tech Mahindra – Intern**
+Worked on an Australia-region project, contributing to web development, testing, and project-related technical activities.
 
 **Frontend Development Intern**  
 Cyberhelps
@@ -97,8 +104,6 @@ Contributed to fundraising campaigns while strengthening communication and stake
 - Open Source Learning
 
 ---
-
-## Contact
 
 **LinkedIn**
 https://www.linkedin.com/in/tulya-veerla
